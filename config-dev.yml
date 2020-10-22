@@ -4,4 +4,4 @@ spring:
   application:
     name: cloud-config-center
 config: 
-  inof: version(1)
+  info: version(1)
