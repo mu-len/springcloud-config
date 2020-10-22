@@ -1,5 +1,3 @@
-server:
-  port: 3345
 spring:
   application:
     name: cloud-config-center
